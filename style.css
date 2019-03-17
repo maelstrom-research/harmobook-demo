@@ -12,3 +12,7 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+table {
+  width: 100% !important;
+}
