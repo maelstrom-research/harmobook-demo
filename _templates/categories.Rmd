@@ -1,5 +1,0 @@
-**Category coding**:
-
-Code      | Label    
-:--------- | :---------
-{{category}}

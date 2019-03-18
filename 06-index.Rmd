@@ -1,0 +1,3 @@
+# Index
+
+This is where the index of variables will be placed.
